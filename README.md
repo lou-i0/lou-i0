@@ -102,15 +102,18 @@ For my previous work experience, please find my [CV attached](<Louis Othen - CV 
 - [LinkedIn](https://www.linkedin.com/in/louis-othen/)
 
 # Recent projects:
-## [House move project](https://github.com/lou-i0/House-Move) Work in progress
+## [House move project](https://github.com/lou-i0/House-Move) -  Work in progress
 To help me work out where to live in future, with a direct route to london - combing rail, property, and holistic data sources into an app to work if a good place to live! Currently a private repo whilst working on it, but your welcome to reach out and ask :)
 
-## [D.A.V.E](https://github.com/lou-i0/AI-assistant-Web-Application) Work in progress
+## [D.A.V.E](https://github.com/lou-i0/AI-assistant-Web-Application) -  Work in progress
 So This repo was having a crack at creating my own AI chatbot lovingly called DAVE! DAVE stands for:
 Data
 Analytics
 Virtual
 Executive
 So that - regardless of level, anyone can get help from dave in there data analysis queries. With a Open AI LLM backend and a personality of a sassy butler, and a streamlit front end.
+
+## [Charity Scrape](https://github.com/lou-i0/Charity-Scrape) -  Complete
+This repo realtes to a project that uses the Goverment charity register, to reach out to folks who may some data analytics services from myself, initally pro-bono as part me seeing if this was a viable consultancy business that could be created.
 
 
