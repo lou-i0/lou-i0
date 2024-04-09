@@ -2,6 +2,11 @@
 My name is Louis Othen, A passionate data and coding enthusiast, who is hardworking with a thirst for knowledge,
 always wanting to learn (the day I stop learning is the day I kick the bucket!), explore with a little adventure or two, and help others wherever I can.
 
+# My Mantras in Life
+1. (As above!) They day I stop learning is the day I kick the bucket! There is always something to learn new, or learn better from prior experience.
+2. The best way to learn is through failure, and makes you appreciate the effort it took to get there.
+3. A harsh truth is better than a pretty lie.
+4. Treat everyone with respect and kindness, regardless of perspective or standing.
 
 # My Skills 
 - Data Science
