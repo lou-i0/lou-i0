@@ -21,6 +21,9 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/shiny.png" width="48" height="48" /> <!-- Shiny !-->
   <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/rmarkdown.png" width="48" height="48" /> <!-- rMarkdown !-->
   <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/lubridate.png" width="48" height="48" /> <!-- Lubridate !-->
+  <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/readr.png" width="48" height="48" /> <!-- Readr !-->
+  <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/RStudio.png" width="48" height="48"/> <!-- Rstudio !-->
+  <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/sparklyr.png" width="48" height="48"/> <!-- SparklyR !-->
   <p>SparkR,Caret, XGBOOST,Waiter, Leaflet, GGmap </p>
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js"/>
@@ -49,7 +52,6 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
     <!-- Stuff got manually !-->
     <img src="https://www.svgrepo.com/show/255832/sql.svg" width="48" height="48"/> <!-- SQL !-->
     <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/><!-- PowerBI !-->
-    <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/RStudio.png" width="48" height="48"/> <!-- Rstudio !-->
     <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/RStudio.png" width="48" height="48"/> <!-- Rstudio !-->
     <p> Jupyter Notebooks,gooogle collab, Qliksense,Tableau,JIRA, Confluence, SSMS, SSIS,  </p>
   </a>
