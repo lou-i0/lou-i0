@@ -29,6 +29,9 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png" width="48" height="48" /> <!-- Streamlit !-->
   <img src="https://camo.githubusercontent.com/55a55cebad6360bda8bca520c61e0e195dc7ee413bf9982f1ba86cab496f2388/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" width="48" height="48" /> <!-- matplotlib !-->
   <img src="https://pypi-camo.freetls.fastly.net/189c5d99fbda79b2218f2d4a4fe29415d32c8d8a/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d7761736b6f6d2f736561626f726e2f6d61737465722f646f632f5f7374617469632f6c6f676f2d776964652d6c6967687462672e737667" width="48" height="48" /> <!-- seaborn !-->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" width="48" height="48" /> <!-- requests !-->
+  <img src="https://www.jeveuxetredatascientist.fr/wp-content/uploads/2022/06/BeautifulSoup-1080x428.jpg" width="48" height="48" /> <!-- beautiful soup !-->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" /> <!-- Selenium !-->
 </p>
 
 <p align="center">
@@ -47,6 +50,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://machinelearningmastery.com/wp-content/uploads/2014/09/Caret-package-in-R-1024x276.png" width="48" height="48" /> <!-- caret !-->
   <img src="https://waiter.john-coene.com/_assets/img/logo.png" width="48" height="48" /> <!-- waiter !-->
   <img src="https://leafletjs.com/docs/images/logo.png" width="48" height="48" /> <!-- leaflet !-->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" /> <!-- Selenium !-->
 </p>
 
 <p align = "center">
