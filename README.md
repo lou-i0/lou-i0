@@ -71,12 +71,17 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 # Tools I have used and Comfortable in
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,git,powershell,linux,vscode,visualstudio,bitbucket,postgres,notion" />
+  <img src = "https://wac-cdn.atlassian.com/dam/jcr:fa01756d-6dcc-45d1-83ab-696fbfeb074f/Jira-icon-blue.svg?cdnVersion=1541" width="48" height="48"/><!-- JIRA !-->
+  <img src = "https://wac-cdn.atlassian.com/dam/jcr:f0fe60cd-469f-4e78-9779-ea4cacfa07e6/Confluence-icon-blue.svg?cdnVersion=1541" width="48" height="48"/><!-- Confluence !-->
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width="48" height="48"/><!-- collab !-->
+  <img src = "https://jupyter.org/assets/homepage/main-logo.svg" width="48" height="48"/><!-- jupyter !-->
   <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/><!-- PowerBI !-->
   <img src = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*K4OWCaCXspnQrK1xxjzh3g.png" width="48" height="48"/><!-- Qliksense !-->
   <img src = "https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" width="48" height="48"/><!-- Tableau !-->
   <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/RStudio.png" width="48" height="48"/> <!-- Rstudio !-->
-  <p> Jupyter Notebooks,gooogle collab,JIRA, Confluence, SSMS, SSIS,  </p>
+  <img src = "https://www.dofactory.com/img/sql/smss.png" width="48" height="48"/> <!-- SSMS !-->
+  <img src = "https://www.informatec.com/sites/default/files/inline-images/ssis-logo.png" width="48" height="48"/> <!-- SSIS !-->
+  <p> SSMS, SSIS,  </p>
 </p>
 Here are some ideas to get you started:
 
