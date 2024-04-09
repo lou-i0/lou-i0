@@ -44,7 +44,15 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://leafletjs.com/docs/images/logo.png" width="48" height="48" /> <!-- leaflet !-->
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<p align = "center">
+  <img src = "https://cdn-icons-png.flaticon.com/128/9517/9517791.png" width="48" height="48"/> <!-- SQL !-->
+  <img src="https://skillicons.dev/icons?i=html,css,js"/> <!-- html, css, javascript !-->
+  <img src = "https://media.licdn.com/dms/image/D4D12AQGTQ6a9BvvEAA/article-cover_image-shrink_720_1280/0/1675951891005?e=1718236800&v=beta&t=y9J3DNNbpdCBPqjI42sPiM8Q06YLuxehUSsXadpTMN0" width="48" height="48"/> <!-- vba !-->
+  <img src="https://skillicons.dev/icons?i=java"/> <!-- java !-->
+  <img src="https://skillicons.dev/icons?i=matlab"/> <!-- MATLAB !-->
+  <img src="https://skillicons.dev/icons?i=cs"/> <!-- C# !-->
+</p>
+
 
 # Cloud Technologies I have worked in
 | <img src="https://skillicons.dev/icons?i=azure"/> | <img src="https://skillicons.dev/icons?i=aws"/> | <img src="https://skillicons.dev/icons?i=gcp" /> | <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="48" height="48"/> | <img src="https://icons-for-free.com/iff/png/256/palantir-1324440210004941653.png" width="48" height="48"/> |
@@ -62,16 +70,13 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 
 # Tools I have used and Comfortable in
 <p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Stuff from skill icons !-->
-    <img src="https://skillicons.dev/icons?i=bash,git,powershell,linux,vscode,visualstudio,bitbucket,postgres,notion" />
-    <!-- Stuff got manually !-->
-    <img src="https://www.svgrepo.com/show/255832/sql.svg" width="48" height="48"/> <!-- SQL !-->
-    <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/><!-- PowerBI !-->
-    <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/RStudio.png" width="48" height="48"/> <!-- Rstudio !-->
-    <p> Jupyter Notebooks,gooogle collab, Qliksense,Tableau,JIRA, Confluence, SSMS, SSIS,  </p>
-  </a>
-  
+  <img src="https://skillicons.dev/icons?i=bash,git,powershell,linux,vscode,visualstudio,bitbucket,postgres,notion" />
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width="48" height="48"/><!-- collab !-->
+  <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/><!-- PowerBI !-->
+  <img src = "https://miro.medium.com/v2/resize:fit:720/format:webp/1*K4OWCaCXspnQrK1xxjzh3g.png" width="48" height="48"/><!-- Qliksense !-->
+  <img src = "https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" width="48" height="48"/><!-- Tableau !-->
+  <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/RStudio.png" width="48" height="48"/> <!-- Rstudio !-->
+  <p> Jupyter Notebooks,gooogle collab,JIRA, Confluence, SSMS, SSIS,  </p>
 </p>
 Here are some ideas to get you started:
 
