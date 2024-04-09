@@ -81,6 +81,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/RStudio.png" width="48" height="48"/> <!-- Rstudio !-->
   <img src = "https://www.dofactory.com/img/sql/smss.png" width="48" height="48"/> <!-- SSMS !-->
   <img src = "https://www.informatec.com/sites/default/files/inline-images/ssis-logo.png" width="48" height="48"/> <!-- SSIS !-->
+  <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1280px-Oracle_SQL_Developer_logo.svg.png" width="48" height="48"/> <!-- Oracle SQL Developer !-->
   <p> SSMS, SSIS,  </p>
 </p>
 Here are some ideas to get you started:
