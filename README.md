@@ -10,16 +10,21 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 - Data Analytics
 - DevOps
 
-# My Coding/scripting Languages (ever growing!)
+# My Coding/scripting Languages (ever growing and not exhaustive!)
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=r"/>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js"/>
-    <p>SQL</p>
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=r"/>
+  <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/dplyr.png" width="48" height="48" /> <!-- dplyr !-->
+  <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/ggplot2.png" width="48" height="48" /> <!-- ggplot2 !-->
+  <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/tidyverse.png" width="48" height="48" /> <!-- tidyverse !-->
+  <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/shiny.png" width="48" height="48" /> <!-- Shiny !-->
+  <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/rmarkdown.png" width="48" height="48" /> <!-- rMarkdown !-->
+  <img src="https://github.com/rstudio/hex-stickers/raw/main/thumbs/lubridate.png" width="48" height="48" /> <!-- Lubridate !-->
+  <p>SparkR,Caret, XGBOOST,Waiter, Leaflet, GGmap </p>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+  <p>SQL</p>
 </p>
 
 # Cloud Technologies I have worked in
@@ -36,10 +41,20 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 | Active Directory                                  | IAM                                             | Not Learned (Cloud Identity)                     | Databases, Tables, and More                                                                          | Experience in ETL, Data Analyrics and Data Science Activities                                               |
 ## Also...
 
-
-
-
-
+# Tools I have used and Comfortable in
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Stuff from skill icons !-->
+    <img src="https://skillicons.dev/icons?i=bash,git,powershell,linux,vscode,visualstudio,bitbucket,postgres,notion" />
+    <!-- Stuff got manually !-->
+    <img src="https://www.svgrepo.com/show/255832/sql.svg" width="48" height="48"/> <!-- SQL !-->
+    <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="48" height="48"/><!-- PowerBI !-->
+    <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/RStudio.png" width="48" height="48"/> <!-- Rstudio !-->
+    <img src = "https://github.com/rstudio/hex-stickers/raw/main/thumbs/RStudio.png" width="48" height="48"/> <!-- Rstudio !-->
+    <p> Jupyter Notebooks,gooogle collab, Qliksense,Tableau,JIRA, Confluence, SSMS, SSIS,  </p>
+  </a>
+  
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
