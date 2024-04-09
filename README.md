@@ -2,7 +2,7 @@
 My name is Louis Othen, A passionate data and coding enthusiast, who is hardworking with a thirst for knowledge,
 always wanting to learn (the day I stop learning is the day I kick the bucket!), explore with a little adventure or two, and help others wherever I can.
 
-# My Mantras in Life
+# My mantras in life
 1. (As above!) They day I stop learning is the day I kick the bucket! There is always something to learn new, or learn better from prior experience.
 2. The best way to learn is through failure, and makes you appreciate the effort it took to get there.
 3. A harsh truth is better than a pretty lie.
@@ -87,8 +87,8 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src = "https://www.dofactory.com/img/sql/smss.png" width="48" height="48"/> <!-- SSMS !-->
   <img src = "https://www.informatec.com/sites/default/files/inline-images/ssis-logo.png" width="48" height="48"/> <!-- SSIS !-->
   <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1280px-Oracle_SQL_Developer_logo.svg.png" width="48" height="48"/> <!-- Oracle SQL Developer !-->
-  <p> SSMS, SSIS,  </p>
 </p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
