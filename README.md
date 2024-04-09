@@ -70,7 +70,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 | SQL Database                                      | RDS                                             | Cloud SQL (Exposure)                             | R, SparkR                                                                                            | Documents                                                                                                   |
 | Virtual Machine (Exposure)                        | EC2 (Exposure)                                  | Not Learned (Compute Engine)                     | Dashboarding/ Visualisations                                                                         | Object Explorer                                                                                             |
 | Azure Functions (Exposure)                        | Not Learned (Lambda)                            | Not Learned (Cloud Functions)                    | Job Scheduling                                                                                       | Pipeline Builder                                                                                            |
-| Active Directory                                  | IAM                                             | Not Learned (Cloud Identity)                     | Databases, Tables, and More                                                                          | Experience in ETL, Data Analyrics and Data Science Activities                                               |
+| Active Directory                                  | IAM                                             | Not Learned (Cloud Identity)                     | Databases, Tables, and More                                                                          | Experience in ETL, Data Analytics and Data Science Activities                                               |
 ## Also...
 
 # Tools I have used and Comfortable in
@@ -88,6 +88,9 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src = "https://www.informatec.com/sites/default/files/inline-images/ssis-logo.png" width="48" height="48"/> <!-- SSIS !-->
   <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1280px-Oracle_SQL_Developer_logo.svg.png" width="48" height="48"/> <!-- Oracle SQL Developer !-->
 </p>
+
+# My Former Employment Experience
+For my previous work experience, please find my [CV attached](<Louis Othen - CV -APR24v2.pdf>)
 
 Here are some ideas to get you started:
 
