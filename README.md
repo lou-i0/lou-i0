@@ -9,9 +9,10 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 4. Treat everyone with respect and kindness, regardless of perspective or standing.
 
 # My Skills 
-- Data Science
+- Data Science 
 - Machine Learning (ML)
 - Predictive Modelling
+- Data Engineering
 - Data Analytics
 - DevOps
 
