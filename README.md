@@ -102,7 +102,15 @@ For my previous work experience, please find my [CV attached](<Louis Othen - CV 
 - [LinkedIn](https://www.linkedin.com/in/louis-othen/)
 
 # Recent projects:
-## House move project
-To help me work out where to live in future, with a direct route to london. Currently a private repo 
+## [House move project](https://github.com/lou-i0/House-Move) Work in progress
+To help me work out where to live in future, with a direct route to london - combing rail, property, and holistic data sources into an app to work if a good place to live! Currently a private repo whilst working on it, but your welcome to reach out and ask :)
+
+## [D.A.V.E](https://github.com/lou-i0/AI-assistant-Web-Application) Work in progress
+So This repo was having a crack at creating my own AI chatbot lovingly called DAVE! DAVE stands for:
+Data
+Analytics
+Virtual
+Executive
+So that - regardless of level, anyone can get help from dave in there data analysis queries. With a Open AI LLM backend and a personality of a sassy butler, and a streamlit front end.
 
 
