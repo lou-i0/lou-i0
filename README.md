@@ -92,6 +92,12 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 # My Former Employment Experience
 For my previous work experience, please find my [CV attached](<Louis Othen - CV -APR24v2.pdf>)
 
+# My hobbies
+- 🌱Learning! 
+- Gaming 
+- Walks/Hikes 
+- Have a little adventure or two now again. Especially anything I wouldn't see in normal day to day life :).
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
