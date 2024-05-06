@@ -90,7 +90,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 </p>
 
 # My Former Employment Experience
-For my previous work experience, please find my [CV attached](<Louis Othen - CV -APR24v2.pdf>)
+For my previous work experience, please find my [CV attached](<Louis Othen - CV - MAY24.pdf>)
 
 # My hobbies
 - 🌱Learning! 
