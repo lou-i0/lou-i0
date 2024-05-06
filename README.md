@@ -9,9 +9,10 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 4. Treat everyone with respect and kindness, regardless of perspective or standing.
 
 # My Skills 
-- Data Science
+- Data Science 
 - Machine Learning (ML)
 - Predictive Modelling
+- Data Engineering
 - Data Analytics
 - DevOps
 
@@ -29,6 +30,9 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png" width="48" height="48" /> <!-- Streamlit !-->
   <img src="https://camo.githubusercontent.com/55a55cebad6360bda8bca520c61e0e195dc7ee413bf9982f1ba86cab496f2388/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" width="48" height="48" /> <!-- matplotlib !-->
   <img src="https://pypi-camo.freetls.fastly.net/189c5d99fbda79b2218f2d4a4fe29415d32c8d8a/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d7761736b6f6d2f736561626f726e2f6d61737465722f646f632f5f7374617469632f6c6f676f2d776964652d6c6967687462672e737667" width="48" height="48" /> <!-- seaborn !-->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" width="48" height="48" /> <!-- requests !-->
+  <img src="https://www.jeveuxetredatascientist.fr/wp-content/uploads/2022/06/BeautifulSoup-1080x428.jpg" width="48" height="48" /> <!-- beautiful soup !-->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" /> <!-- Selenium !-->
 </p>
 
 <p align="center">
@@ -47,6 +51,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://machinelearningmastery.com/wp-content/uploads/2014/09/Caret-package-in-R-1024x276.png" width="48" height="48" /> <!-- caret !-->
   <img src="https://waiter.john-coene.com/_assets/img/logo.png" width="48" height="48" /> <!-- waiter !-->
   <img src="https://leafletjs.com/docs/images/logo.png" width="48" height="48" /> <!-- leaflet !-->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" /> <!-- Selenium !-->
 </p>
 
 <p align = "center">
@@ -102,7 +107,18 @@ For my previous work experience, please find my [CV attached](<Louis Othen - CV 
 - [LinkedIn](https://www.linkedin.com/in/louis-othen/)
 
 # Recent projects:
-## House move project
-To help me work out where to live in future, with a direct route to london. Currently a private repo 
+## [House move project](https://github.com/lou-i0/House-Move) -  Work in progress
+To help me work out where to live in future, with a direct route to london - combing rail, property, and holistic data sources into an app to work if a good place to live! Currently a private repo whilst working on it, but your welcome to reach out and ask :)
+
+## [D.A.V.E](https://github.com/lou-i0/AI-assistant-Web-Application) -  Work in progress
+So This repo was having a crack at creating my own AI chatbot lovingly called DAVE! DAVE stands for:
+Data
+Analytics
+Virtual
+Executive
+So that - regardless of level, anyone can get help from dave in there data analysis queries. With a Open AI LLM backend and a personality of a sassy butler, and a streamlit front end.
+
+## [Charity Scrape](https://github.com/lou-i0/Charity-Scrape) -  Complete
+This repo realtes to a project that uses the Goverment charity register, to reach out to folks who may some data analytics services from myself, initally pro-bono as part me seeing if this was a viable consultancy business that could be created.
 
 
