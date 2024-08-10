@@ -95,7 +95,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 </p>
 
 # My Former Employment Experience
-For my previous work experience, please find my [CV attached - pretty](<Louis Othen - CV - JUN24.pdf>) and [CV attached - formal] (<Louis Othen - CV - AUG24.pdf>)
+For my previous work experience, please find my [CV attached - pretty](<Louis Othen - CV - JUN24.pdf>) and [CV attached - formal](<Louis Othen - CV - AUG24.pdf>)
 
 # My hobbies
 - 🌱Learning! 
