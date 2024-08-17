@@ -15,6 +15,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 - Data Engineering
 - Data Analytics
 - DevOps
+- LLM exploration, Prompt Engineering , and Retrieval-Augmented Generation (RAG -  soon!)
 
 # My Coding/scripting Languages (ever growing and not exhaustive!)
 <p align="center">
@@ -103,22 +104,24 @@ For my previous work experience, please find my [CV attached - pretty](<Louis Ot
 - Walks/Hikes 
 - Have a little adventure or two now again. Especially anything I wouldn't see in normal day to day life :).
 
-# Feel free to reach out 
+# Feel free to reach out on LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/louis-othen/)
 
 # Recent projects:
-## [House move project](https://github.com/lou-i0/House-Move) -  Work in progress
-To help me work out where to live in future, with a direct route to london - combing rail, property, and holistic data sources into an app to work if a good place to live! Currently a private repo whilst working on it, but your welcome to reach out and ask :)
-
-## [D.A.V.E](https://github.com/lou-i0/AI-assistant-Web-Application) -  Work in progress
-So This repo was having a crack at creating my own AI chatbot lovingly called DAVE! DAVE stands for:
-Data
-Analytics
-Virtual
-Executive
-So that - regardless of level, anyone can get help from dave in there data analysis queries. With a Open AI LLM backend and a personality of a sassy butler, and a streamlit front end.
+## [Web App DevOps Project](https://github.com/lou-i0/Web-App-DevOps-Project-LO) - Complete
+This project involves creating a simple web app in python with the flask framework, Containerising the application within Docker, Using terraform and kubernetes for both deployment as well as CI/CD practices with any changes via the Azure platform with Azure DevOps Kubernetes clusters and more. . 
 
 ## [Charity Scrape](https://github.com/lou-i0/Charity-Scrape) -  Complete
-This repo realtes to a project that uses the Goverment charity register, to reach out to folks who may some data analytics services from myself, initally pro-bono as part me seeing if this was a viable consultancy business that could be created.
+This repo relates to a project that uses the Government charity register, to reach out to folks who may some data analytics services from myself, initially pro-bono as part me seeing if this was a viable consultancy business that could be created.
 
+## [D.A.V.E -  LLM Assistant](https://github.com/lou-i0/AI-assistant-Web-Application) -  Complete mostly
+So This repo was having a crack at creating my own AI chatbot lovingly called DAVE! DAVE stands for:
+
+Data.Analytics.Virtual.Executive - D.A.V.E !
+
+So that - regardless of level, anyone can get help from dave in there data analysis queries. With a Open AI LLM backend and a personality of a sassy butler, and a streamlit front end.
+This currently works, but feel it could be improved and will be worked at a later date. 
+
+## [House move project](https://github.com/lou-i0/House-Move) -  Work in progress
+To help me work out where to live in future, with a direct route to london - combing rail, property, and holistic data sources into an app to work if a good place to live! Currently a private repo whilst working on it, but your welcome to reach out and ask :)
 
