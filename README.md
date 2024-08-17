@@ -114,6 +114,10 @@ This project involves creating a simple web app in python with the flask framewo
 ## [Charity Scrape](https://github.com/lou-i0/Charity-Scrape) -  Complete
 This repo relates to a project that uses the Government charity register, to reach out to folks who may some data analytics services from myself, initially pro-bono as part me seeing if this was a viable consultancy business that could be created.
 
+## [MSc in Computer Science and Big Data Analytics at Wrexham University](https://github.com/lou-i0/Wrexham-MSc) - Complete
+All my workings that went towards gaining a Distinction in my masters degree 😊.
+
+
 ## [D.A.V.E -  LLM Assistant](https://github.com/lou-i0/AI-assistant-Web-Application) -  Complete mostly
 So This repo was having a crack at creating my own AI chatbot lovingly called DAVE! DAVE stands for:
 
