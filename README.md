@@ -15,7 +15,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 - Data Engineering
 - Data Analytics
 - DevOps
-- LLM exploration, Prompt Engineering , and Retrieval-Augmented Generation (RAG -  soon!)
+- LLM exploration, Prompt Engineering , and Retrieval-Augmented Generation 
 
 # My Coding/scripting Languages (ever growing and not exhaustive!)
 <p align="center">
@@ -53,6 +53,8 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://waiter.john-coene.com/_assets/img/logo.png" width="48" height="48" /> <!-- waiter !-->
   <img src="https://leafletjs.com/docs/images/logo.png" width="48" height="48" /> <!-- leaflet !-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" /> <!-- Selenium !-->
+  <img src = "https://en.wikiversity.org/wiki/FastAPI#/media/File:FastAPI_logo.png" width="48" height="48"> <!-- FAST API !-->
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" width="48" height="48"> <!-- DUCK DB API !-->
 </p>
 
 <p align = "center">
@@ -96,8 +98,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
 </p>
 
 # My Former Employment Experience
-For my previous work experience, please find my [CV attached - pretty](<Louis Othen - CV - JUN24.pdf>) and [CV attached - formal](<Louis Othen - CV - AUG24.pdf>)
-
+For my previous work experience, please find my [CV attached](<Louis Othen - CV - SEP24.pdf>)
 # My hobbies
 - 🌱Learning! 
 - Gaming 
@@ -108,6 +109,10 @@ For my previous work experience, please find my [CV attached - pretty](<Louis Ot
 - [LinkedIn](https://www.linkedin.com/in/louis-othen/)
 
 # Recent projects:
+## [FastAPI](https://github.com/lou-i0/fastapi) - In Progress
+This Repository realtes to my knowledge enchancement and basic application of how to use FastAPI to create web apis for end users. Example will include a simple example, an example returning DuckDB results, provide predictions from a previously create Machine Learning Model, as well as how it can all be containerised via Docker.
+
+
 ## [Web App DevOps Project](https://github.com/lou-i0/Web-App-DevOps-Project-LO) - Complete
 This project involves creating a simple web app in python with the flask framework, Containerising the application within Docker, Using terraform and kubernetes for both deployment as well as CI/CD practices with any changes via the Azure platform with Azure DevOps Kubernetes clusters and more. . 
 
