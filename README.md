@@ -34,6 +34,8 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" width="48" height="48" /> <!-- requests !-->
   <img src="https://www.jeveuxetredatascientist.fr/wp-content/uploads/2022/06/BeautifulSoup-1080x428.jpg" width="48" height="48" /> <!-- beautiful soup !-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" /> <!-- Selenium !-->
+   <img src = "https://skillicons.dev/icons?i=fastapi" width="48" height="48"> <!-- FAST API !-->
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" width="48" height="48"> <!-- DUCK DB API !-->
 </p>
 
 <p align="center">
@@ -53,8 +55,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://waiter.john-coene.com/_assets/img/logo.png" width="48" height="48" /> <!-- waiter !-->
   <img src="https://leafletjs.com/docs/images/logo.png" width="48" height="48" /> <!-- leaflet !-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" /> <!-- Selenium !-->
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" width="48" height="48"> <!-- FAST API !-->
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" width="48" height="48"> <!-- DUCK DB API !-->
+ 
 </p>
 
 <p align = "center">
