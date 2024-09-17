@@ -53,7 +53,7 @@ always wanting to learn (the day I stop learning is the day I kick the bucket!),
   <img src="https://waiter.john-coene.com/_assets/img/logo.png" width="48" height="48" /> <!-- waiter !-->
   <img src="https://leafletjs.com/docs/images/logo.png" width="48" height="48" /> <!-- leaflet !-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="48" height="48" /> <!-- Selenium !-->
-  <img src = "https://en.wikiversity.org/wiki/FastAPI#/media/File:FastAPI_logo.png" width="48" height="48"> <!-- FAST API !-->
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" width="48" height="48"> <!-- FAST API !-->
   <img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/DuckDB_logo.svg" width="48" height="48"> <!-- DUCK DB API !-->
 </p>
 
