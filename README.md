@@ -111,7 +111,7 @@ For my previous work experience, please find my [CV attached](<Louis Othen - CV 
 
 # Recent projects:
 ## [FastAPI](https://github.com/lou-i0/fastapi) - In Progress
-This Repository realtes to my knowledge enchancement and basic application of how to use FastAPI to create web apis for end users. Example will include a simple example, an example returning DuckDB results, provide predictions from a previously create Machine Learning Model, as well as how it can all be containerised via Docker.
+This Repository realtes to my knowledge enchancement and basic application of how to use FastAPI to create web apis for end users. Example will include a simple example(done), an example returning DuckDB results(done), provide predictions from a previously created Machine Learning Model(s) (done but can be better), as well as how it can all be containerised via Docker.
 
 
 ## [Web App DevOps Project](https://github.com/lou-i0/Web-App-DevOps-Project-LO) - Complete
