@@ -11,7 +11,7 @@
 - Data Engineering
 - Data Analytics
 - DevOps
-- LLM exploration, Prompt Engineering , and Retrieval-Augmented Generation 
+- LLM exploration, Prompt Engineering , Retrieval-Augmented Generation (RAG) and ongoing for more ! 
 
 # My hobbies
 - 🌱Learning! 
